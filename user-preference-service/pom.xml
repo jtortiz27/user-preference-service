@@ -9,7 +9,6 @@
         <relativePath>../user-preference-pom</relativePath><!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.ortiz.user</groupId>
     <artifactId>user-preference-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>User-Preference-Service</name>
@@ -55,5 +54,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
